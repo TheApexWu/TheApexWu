@@ -19,16 +19,23 @@ jobs:
           config_timezone: America/New_York
 
           base: ""
+          base_header: no
+          base_activity: no
+          base_community: no
+          base_repositories: no
+          base_metadata: no
           base_hireable: no
           repositories_skipped: TheApexWu
 
           plugin_languages: yes
           plugin_languages_categories: programming
           plugin_languages_colors: github
-          plugin_languages_ignored: Jupyter Notebook, HTML, CSS, Shell
+          plugin_languages_ignored: Jupyter Notebook, HTML, CSS, Shell, Makefile
           plugin_languages_limit: 6
           plugin_languages_sections: most-used
           plugin_languages_threshold: 2%
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
