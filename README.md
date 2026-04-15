@@ -1,4 +1,4 @@
-*Men are born for games. Nothing else. Every child knows that play is nobler than work.*
+
 
 ---
 
