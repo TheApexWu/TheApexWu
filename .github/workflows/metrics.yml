@@ -36,6 +36,10 @@ jobs:
           plugin_languages_threshold: 2%
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 30
+          plugin_languages_recent_load: 250
+          plugin_languages_recent_days: 30
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
