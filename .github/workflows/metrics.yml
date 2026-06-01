@@ -19,12 +19,6 @@ jobs:
           config_timezone: America/New_York
 
           base: ""
-          base_header: no
-          base_activity: no
-          base_community: no
-          base_repositories: no
-          base_metadata: no
-          base_hireable: no
           repositories_skipped: TheApexWu
 
           plugin_languages: yes
